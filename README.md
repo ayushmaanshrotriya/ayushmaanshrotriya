@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋, my name is Ayushmaan Shrotriya
+#### Passionate developer
+Talk to me about tech and cinema for hours
 
-<!--
-**ayushmaanshrotriya/ayushmaanshrotriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: C++/C/Pyhton
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ayushmaanshrotriya)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://engineeringunchained.hashnode.dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/ayushmaanshrotr)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushmaanshrotriya)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushmaanshrotriya&show_icons=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/ayushmaanshrotriya)  
+
